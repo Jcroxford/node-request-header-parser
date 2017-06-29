@@ -1,3 +1,10 @@
 body {
-  background-color: green;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  max-width: 720px;
+  width: 100%;
+  margin: 0 auto;
+}
+div {
+  margin: 50px auto;
 }
